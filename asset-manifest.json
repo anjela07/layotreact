@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/layotreact/static/css/main.42c055c6.css",
+    "main.js": "/layotreact/static/js/main.e2a25548.js",
+    "static/media/7.pngg.png": "/layotreact/static/media/7.pngg.0f9e8ef71165ad20f15f.png",
+    "static/media/4.pngg.png": "/layotreact/static/media/4.pngg.38161405569148be8a5e.png",
+    "static/media/3.pngg.png": "/layotreact/static/media/3.pngg.4607df7e26f7f2a48460.png",
+    "static/media/5.pngg.png": "/layotreact/static/media/5.pngg.1ad665dd728c69986ee3.png",
+    "static/media/9.pngg.png": "/layotreact/static/media/9.pngg.9e08c0058b24262efdf3.png",
+    "static/media/8.pngg.png": "/layotreact/static/media/8.pngg.83fda54ebc4e73af43d0.png",
+    "static/media/1.pngg.png": "/layotreact/static/media/1.pngg.5ff09583282de5303de7.png",
+    "index.html": "/layotreact/index.html",
+    "main.42c055c6.css.map": "/layotreact/static/css/main.42c055c6.css.map",
+    "main.e2a25548.js.map": "/layotreact/static/js/main.e2a25548.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42c055c6.css",
+    "static/js/main.e2a25548.js"
+  ]
+}
